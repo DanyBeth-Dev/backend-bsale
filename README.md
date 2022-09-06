@@ -1,7 +1,8 @@
 # bsale-test
 Bienvenidos al backend de la aplicación BSALE.
 
-Ruta: https://evening-taiga-78339.herokuapp.com
+Frontend: https://daniela-dev.cl/frontend-bsale
+Backend: https://evening-taiga-78339.herokuapp.com
 
 Endpoints:
 
