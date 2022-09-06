@@ -3,6 +3,7 @@ Bienvenidos al backend de la aplicación BSALE.
 
  - Frontend: https://daniela-dev.cl/frontend-bsale 
  - Backend: https://evening-taiga-78339.herokuapp.com
+ - Documentación: https://daniela-dev.cl/frontend-bsale/docs/
 
 Endpoints:
 
